@@ -4,10 +4,10 @@ $(function() {
 
 $('.d2').mouseover(function(){ 
   $('.firstnum').addClass('one') 
-});
+})
 $('.d2').mouseover(function(){ 
   $('.secondnum').addClass('two') 
-});
+})
 
 
 
